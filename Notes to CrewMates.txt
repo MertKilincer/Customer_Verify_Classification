@@ -1,5 +1,0 @@
-class imbalance ya undersample la yada oversamplingle çözmemiz gerekiyor
-outlier detection with advanced ways istiyorum belli algortmalar kullanarak outliersları çok boyutta tahmin etmek istiyom çünkü çok feature var curse of dimensionality den mininumu etkilenmeli
-feature engineering fikirleri text blob gibi library lerin yanında text içindeki kelime sayısı gibi şeyler kullanılabilir ya da text teki average sözlük uzunluğu gibi bir şey.
-encoding and stratified shuffle 
-k fold validation
